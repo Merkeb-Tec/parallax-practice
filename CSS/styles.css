@@ -9,8 +9,8 @@
 .hero-text {
     text-align: center;
     padding-top: 100px;
-    color: );
-    font-family: 'Libre Franklin', sans-serif;
+    color: rgb(233, 231, 231);
+    font-family: 'Source Serif Pro', serif;
 
 }
 .hero-text button {
@@ -18,8 +18,8 @@
     background-color:#F2F2F2 ;
 }
 h1 {
-    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 p {
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Source Serif Pro', serif;
 }
