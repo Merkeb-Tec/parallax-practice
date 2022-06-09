@@ -25,10 +25,10 @@ p {
 }
 .parallax {
     /* The image used */
-    background-image: url("../Images/pexels-wedding.jpg");
+    background-image: url("../Images/pexels-gillian-harrison-8259016.jpg");
   
     /* Set a specific height */
-    min-height: 500px;
+    min-height: 400px;
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -36,3 +36,4 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.wedding
