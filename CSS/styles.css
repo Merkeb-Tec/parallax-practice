@@ -1,7 +1,6 @@
 .hero-image {
-    border: solid grey; 
     height: 400px;
-    background-image:url('../Images/communityevent.jpg');
+    background-image:url('../Images/pexels-jonathan-borba-6544769.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -10,9 +9,17 @@
 .hero-text {
     text-align: center;
     padding-top: 100px;
-    color: rgb(250, 244, 208);
+    color: rgb(233, 231, 231);
+    font-family: 'Source Serif Pro', serif;
+
 }
 .hero-text button {
     color: #2c2d2d;
     background-color:#F2F2F2 ;
+}
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+p {
+    font-family: 'Source Serif Pro', serif;
 }
