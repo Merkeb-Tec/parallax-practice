@@ -36,12 +36,17 @@ p {
 .bg-image1 {
     background-image: url("../Images/pexels-gillian-harrison-8259016.jpg");
 }
-.wedding {
+.bg-image2 {
+    background-image: url("../Images/pexels-speakerseries.jpg");
+}
+.bg-image3 {
+    background-image: url("../Images/pexels-communityevent.jpg");
+}
+.textbox {
     background-color: #2c2d2d;
     width: 500px;
     margin:auto;
     height: auto;
    opacity: 0.8;
-   
-    
+   color: #F2F2F2;  
 }
